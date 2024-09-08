@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\nested for loops\nested for loops\bin\Debug\net6.0\nested for loops.exe
+C:\Users\user\source\repos\nested for loops\nested for loops\bin\Debug\net6.0\nested for loops.deps.json
+C:\Users\user\source\repos\nested for loops\nested for loops\bin\Debug\net6.0\nested for loops.runtimeconfig.json
+C:\Users\user\source\repos\nested for loops\nested for loops\bin\Debug\net6.0\nested for loops.dll
+C:\Users\user\source\repos\nested for loops\nested for loops\bin\Debug\net6.0\nested for loops.pdb
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\nested for loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\nested for loops.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\nested for loops.AssemblyInfo.cs
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\nested for loops.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\nested for loops.dll
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\refint\nested for loops.dll
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\nested for loops.pdb
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\nested for loops.genruntimeconfig.cache
+C:\Users\user\source\repos\nested for loops\nested for loops\obj\Debug\net6.0\ref\nested for loops.dll
