@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\linq with databases\linq with databases\bin\Debug\linq with databases.exe.config
+C:\Users\user\source\repos\linq with databases\linq with databases\bin\Debug\linq with databases.exe
+C:\Users\user\source\repos\linq with databases\linq with databases\bin\Debug\linq with databases.pdb
+C:\Users\user\source\repos\linq with databases\linq with databases\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\linq with databases\linq with databases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\linq with databases\linq with databases\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\linq with databases\linq with databases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\linq with databases\linq with databases\obj\Debug\linq with databases.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\linq with databases\linq with databases\obj\Debug\linq with databases.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\linq with databases\linq with databases\obj\Debug\linq with databases.csproj.CopyComplete
+C:\Users\user\source\repos\linq with databases\linq with databases\obj\Debug\linq with databases.exe
+C:\Users\user\source\repos\linq with databases\linq with databases\obj\Debug\linq with databases.pdb
