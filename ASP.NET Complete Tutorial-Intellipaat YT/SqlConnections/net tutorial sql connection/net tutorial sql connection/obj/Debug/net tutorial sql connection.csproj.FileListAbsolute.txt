@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\net tutorial sql connection\net tutorial sql connection\bin\Debug\net tutorial sql connection.exe.config
+C:\Users\user\source\repos\net tutorial sql connection\net tutorial sql connection\bin\Debug\net tutorial sql connection.exe
+C:\Users\user\source\repos\net tutorial sql connection\net tutorial sql connection\bin\Debug\net tutorial sql connection.pdb
+C:\Users\user\source\repos\net tutorial sql connection\net tutorial sql connection\obj\Debug\net tutorial sql connection.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\net tutorial sql connection\net tutorial sql connection\obj\Debug\net tutorial sql connection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\net tutorial sql connection\net tutorial sql connection\obj\Debug\net tutorial sql connection.exe
+C:\Users\user\source\repos\net tutorial sql connection\net tutorial sql connection\obj\Debug\net tutorial sql connection.pdb

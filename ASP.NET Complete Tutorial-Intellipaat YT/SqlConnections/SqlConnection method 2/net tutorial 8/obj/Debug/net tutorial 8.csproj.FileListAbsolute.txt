@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\net tutorial 8\net tutorial 8\obj\Debug\net tutorial 8.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\net tutorial 8\net tutorial 8\obj\Debug\net tutorial 8.csproj.CoreCompileInputs.cache
