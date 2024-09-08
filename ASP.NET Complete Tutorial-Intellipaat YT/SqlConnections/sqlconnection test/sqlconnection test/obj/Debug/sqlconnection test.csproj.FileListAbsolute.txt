@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\sqlconnection test\sqlconnection test\bin\Debug\sqlconnection test.exe.config
+C:\Users\user\source\repos\sqlconnection test\sqlconnection test\bin\Debug\sqlconnection test.exe
+C:\Users\user\source\repos\sqlconnection test\sqlconnection test\bin\Debug\sqlconnection test.pdb
+C:\Users\user\source\repos\sqlconnection test\sqlconnection test\obj\Debug\sqlconnection test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\sqlconnection test\sqlconnection test\obj\Debug\sqlconnection test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sqlconnection test\sqlconnection test\obj\Debug\sqlconnection test.exe
+C:\Users\user\source\repos\sqlconnection test\sqlconnection test\obj\Debug\sqlconnection test.pdb
