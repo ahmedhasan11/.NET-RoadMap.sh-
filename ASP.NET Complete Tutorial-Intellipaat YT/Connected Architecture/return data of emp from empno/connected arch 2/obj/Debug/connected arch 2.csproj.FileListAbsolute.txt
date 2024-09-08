@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\connected arch 2\connected arch 2\bin\Debug\connected arch 2.exe.config
+C:\Users\user\source\repos\connected arch 2\connected arch 2\bin\Debug\connected arch 2.exe
+C:\Users\user\source\repos\connected arch 2\connected arch 2\bin\Debug\connected arch 2.pdb
+C:\Users\user\source\repos\connected arch 2\connected arch 2\obj\Debug\connected arch 2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\connected arch 2\connected arch 2\obj\Debug\connected arch 2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\connected arch 2\connected arch 2\obj\Debug\connected arch 2.exe
+C:\Users\user\source\repos\connected arch 2\connected arch 2\obj\Debug\connected arch 2.pdb

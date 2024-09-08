@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Nett utorial\Nett utorial\bin\Debug\Nett utorial.exe.config
+C:\Users\user\source\repos\Nett utorial\Nett utorial\bin\Debug\Nett utorial.exe
+C:\Users\user\source\repos\Nett utorial\Nett utorial\bin\Debug\Nett utorial.pdb
+C:\Users\user\source\repos\Nett utorial\Nett utorial\obj\Debug\Nett utorial.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Nett utorial\Nett utorial\obj\Debug\Nett utorial.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nett utorial\Nett utorial\obj\Debug\Nett utorial.exe
+C:\Users\user\source\repos\Nett utorial\Nett utorial\obj\Debug\Nett utorial.pdb

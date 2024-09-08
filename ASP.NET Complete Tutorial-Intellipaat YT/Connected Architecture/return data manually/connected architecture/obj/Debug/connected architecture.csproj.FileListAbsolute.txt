@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\connected architecture\connected architecture\bin\Debug\connected architecture.exe.config
+C:\Users\user\source\repos\connected architecture\connected architecture\bin\Debug\connected architecture.exe
+C:\Users\user\source\repos\connected architecture\connected architecture\bin\Debug\connected architecture.pdb
+C:\Users\user\source\repos\connected architecture\connected architecture\obj\Debug\connected architecture.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\connected architecture\connected architecture\obj\Debug\connected architecture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\connected architecture\connected architecture\obj\Debug\connected architecture.exe
+C:\Users\user\source\repos\connected architecture\connected architecture\obj\Debug\connected architecture.pdb
