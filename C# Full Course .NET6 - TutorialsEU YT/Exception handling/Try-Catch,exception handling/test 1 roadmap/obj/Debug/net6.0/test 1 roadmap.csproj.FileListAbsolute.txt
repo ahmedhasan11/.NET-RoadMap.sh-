@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\bin\Debug\net6.0\test 1 roadmap.exe
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\bin\Debug\net6.0\test 1 roadmap.deps.json
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\bin\Debug\net6.0\test 1 roadmap.runtimeconfig.json
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\bin\Debug\net6.0\test 1 roadmap.dll
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\bin\Debug\net6.0\test 1 roadmap.pdb
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\test 1 roadmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\test 1 roadmap.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\test 1 roadmap.AssemblyInfo.cs
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\test 1 roadmap.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\test 1 roadmap.dll
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\refint\test 1 roadmap.dll
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\test 1 roadmap.pdb
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\test 1 roadmap.genruntimeconfig.cache
+C:\Users\user\source\repos\test 1 roadmap\test 1 roadmap\obj\Debug\net6.0\ref\test 1 roadmap.dll
