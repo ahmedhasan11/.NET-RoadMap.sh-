@@ -1,0 +1,28 @@
+C:\Users\user\source\repos\2d array\2d array\bin\Debug\net6.0\2d array.exe
+C:\Users\user\source\repos\2d array\2d array\bin\Debug\net6.0\2d array.deps.json
+C:\Users\user\source\repos\2d array\2d array\bin\Debug\net6.0\2d array.runtimeconfig.json
+C:\Users\user\source\repos\2d array\2d array\bin\Debug\net6.0\2d array.dll
+C:\Users\user\source\repos\2d array\2d array\bin\Debug\net6.0\2d array.pdb
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\2d array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\2d array.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\2d array.AssemblyInfo.cs
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\2d array.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\2d array.dll
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\refint\2d array.dll
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\2d array.pdb
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\2d array.genruntimeconfig.cache
+C:\Users\user\source\repos\2d array\2d array\obj\Debug\net6.0\ref\2d array.dll
+C:\Users\user\source\repos\.net c#\2d array\2d array\bin\Debug\net6.0\2d array.exe
+C:\Users\user\source\repos\.net c#\2d array\2d array\bin\Debug\net6.0\2d array.deps.json
+C:\Users\user\source\repos\.net c#\2d array\2d array\bin\Debug\net6.0\2d array.runtimeconfig.json
+C:\Users\user\source\repos\.net c#\2d array\2d array\bin\Debug\net6.0\2d array.dll
+C:\Users\user\source\repos\.net c#\2d array\2d array\bin\Debug\net6.0\2d array.pdb
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\2d array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\2d array.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\2d array.AssemblyInfo.cs
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\2d array.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\2d array.dll
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\refint\2d array.dll
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\2d array.pdb
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\2d array.genruntimeconfig.cache
+C:\Users\user\source\repos\.net c#\2d array\2d array\obj\Debug\net6.0\ref\2d array.dll

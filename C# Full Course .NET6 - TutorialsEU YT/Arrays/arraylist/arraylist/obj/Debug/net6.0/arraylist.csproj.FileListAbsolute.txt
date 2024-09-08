@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfo.cs
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\arraylist\arraylist\bin\Debug\net6.0\arraylist.exe
+C:\Users\user\source\repos\arraylist\arraylist\bin\Debug\net6.0\arraylist.deps.json
+C:\Users\user\source\repos\arraylist\arraylist\bin\Debug\net6.0\arraylist.runtimeconfig.json
+C:\Users\user\source\repos\arraylist\arraylist\bin\Debug\net6.0\arraylist.dll
+C:\Users\user\source\repos\arraylist\arraylist\bin\Debug\net6.0\arraylist.pdb
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\arraylist.dll
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\refint\arraylist.dll
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\arraylist.pdb
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\arraylist.genruntimeconfig.cache
+C:\Users\user\source\repos\arraylist\arraylist\obj\Debug\net6.0\ref\arraylist.dll
